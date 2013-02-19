@@ -4,3 +4,8 @@ remove_vowels = mystr.delete("aeiou")
 puts "this is my string without vowels" + remove_vowels
 
 puts "aditya made the change"
+
+mystr.scan("String")
+=> ["String", "String"]
+
+puts "Occurrence of string "
