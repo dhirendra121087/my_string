@@ -6,6 +6,6 @@ puts "this is my string without vowels" + remove_vowels
 puts "aditya made the change"
 
 mystr.scan("String")
-=> ["String", "String"]
+=> ["String", "String"] // i asked for occurrence of "String" in provided string
 
 puts "Occurrence of string "
